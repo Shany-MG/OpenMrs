@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-04T17:45:59 IST" name="Suite" finished-at="2022-09-04T17:49:43 IST" duration-ms="224147">
+    <groups>
+    </groups>
+    <test started-at="2022-09-04T17:45:59 IST" name="Test" finished-at="2022-09-04T17:49:43 IST" duration-ms="224147">
+      <class name="TestPackage.TestClass">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:TestPackage.TestClass@2e2ff723]" started-at="2022-09-04T17:45:59 IST" name="beforeSuite" finished-at="2022-09-04T17:45:59 IST" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method signature="launch(java.util.Map)[pri:0, instance:TestPackage.TestClass@2e2ff723]" started-at="2022-09-04T17:45:59 IST" name="launch" data-provider="TestData" finished-at="2022-09-04T17:46:44 IST" duration-ms="44368" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Adddress2=Kanyakumari, Address1=Marthandam, Appoiintment Type=, City=Nagercoil, Country=India, Day=12, FamilyName=J, FirstName=Rosie, Gender=Female, MiddleName=Buttler, Month=January, Notes=, Phonenumber=9445982213, Postalcode=629165, Provider=, Relatives_Name=Mohan,Minu,Krishna, Relatives_Type=Parent,Sibling,Supervisor, Run=Yes, State=TamilNadu, TestCategory=Regression, TestScenario=TC_OpenMrs_Register_a_Patient, Year=1996}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:TestPackage.TestClass@2e2ff723]" started-at="2022-09-04T17:46:44 IST" name="getResult" finished-at="2022-09-04T17:46:44 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=launch status=SUCCESS method=TestClass.launch(java.util.Map)[pri:0, instance:TestPackage.TestClass@2e2ff723] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="launch(java.util.Map)[pri:0, instance:TestPackage.TestClass@2e2ff723]" started-at="2022-09-04T17:46:44 IST" name="launch" data-provider="TestData" finished-at="2022-09-04T17:47:15 IST" duration-ms="31550" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Adddress2=, Address1=, Appoiintment Type=, City=, Country=, Day=, FamilyName=, FirstName=Shany Mohan Dhas,James King, Gender=, MiddleName=, Month=, Notes=, Phonenumber=, Postalcode=, Provider=, Relatives_Name=, Relatives_Type=, Run=Yes, State=, TestCategory=Regression, TestScenario=TC_OpenMrs_Find_a_Patient, Year=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:TestPackage.TestClass@2e2ff723]" started-at="2022-09-04T17:47:15 IST" name="getResult" finished-at="2022-09-04T17:47:15 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=launch status=SUCCESS method=TestClass.launch(java.util.Map)[pri:0, instance:TestPackage.TestClass@2e2ff723] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="launch(java.util.Map)[pri:0, instance:TestPackage.TestClass@2e2ff723]" started-at="2022-09-04T17:47:15 IST" name="launch" data-provider="TestData" finished-at="2022-09-04T17:48:05 IST" duration-ms="49315" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Adddress2=, Address1=, Appoiintment Type=, City=, Country=, Day=, FamilyName=, FirstName=Shany Mohan Dhas,James King, Gender=, MiddleName=, Month=, Notes=, Phonenumber=, Postalcode=, Provider=, Relatives_Name=, Relatives_Type=, Run=Yes, State=, TestCategory=Regression, TestScenario=TC_OpenMrs_View_a_Patient, Year=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:TestPackage.TestClass@2e2ff723]" started-at="2022-09-04T17:48:05 IST" name="getResult" finished-at="2022-09-04T17:48:05 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=launch status=SUCCESS method=TestClass.launch(java.util.Map)[pri:0, instance:TestPackage.TestClass@2e2ff723] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="launch(java.util.Map)[pri:0, instance:TestPackage.TestClass@2e2ff723]" started-at="2022-09-04T17:48:05 IST" name="launch" data-provider="TestData" finished-at="2022-09-04T17:48:47 IST" duration-ms="42475" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Adddress2=, Address1=, Appoiintment Type=, City=, Country=, Day=, FamilyName=, FirstName=Liam davis, Gender=, MiddleName=, Month=, Notes=, Phonenumber=, Postalcode=, Provider=, Relatives_Name=, Relatives_Type=, Run=Yes, State=, TestCategory=Regression, TestScenario=TC_OpenMrs_Delete_a_Patient, Year=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:TestPackage.TestClass@2e2ff723]" started-at="2022-09-04T17:48:47 IST" name="getResult" finished-at="2022-09-04T17:48:47 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=launch status=SUCCESS method=TestClass.launch(java.util.Map)[pri:0, instance:TestPackage.TestClass@2e2ff723] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method signature="launch(java.util.Map)[pri:0, instance:TestPackage.TestClass@2e2ff723]" started-at="2022-09-04T17:48:47 IST" name="launch" data-provider="TestData" finished-at="2022-09-04T17:49:43 IST" duration-ms="55779" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Adddress2=, Address1=, Appoiintment Type=Dermatology, City=, Country=, Day=, FamilyName=, FirstName=Shany Mohan Dhas, Gender=, MiddleName=, Month=, Notes=Need to follow up, Phonenumber=, Postalcode=, Provider=Marketing Company of Medicines, Relatives_Name=, Relatives_Type=, Run=Yes, State=, TestCategory=Regression, TestScenario=TC_OpenMrs_Book a Appointment, Year=}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:TestPackage.TestClass@2e2ff723]" started-at="2022-09-04T17:49:43 IST" name="getResult" finished-at="2022-09-04T17:49:43 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=launch status=SUCCESS method=TestClass.launch(java.util.Map)[pri:0, instance:TestPackage.TestClass@2e2ff723] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="aftersuite()[pri:0, instance:TestPackage.TestClass@2e2ff723]" started-at="2022-09-04T17:49:43 IST" name="aftersuite" finished-at="2022-09-04T17:49:43 IST" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- TestPackage.TestClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

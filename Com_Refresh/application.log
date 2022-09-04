@@ -1,0 +1,15 @@
+[INFO ] 2022-09-04 17:46:00.291 [main] Log - Stated to Execute the Test Scenario: TC_OpenMrs_Register_a_Patient
+[INFO ] 2022-09-04 17:46:02.474 [main] Log - Driver has initialized successful for chromebrowser
+[INFO ] 2022-09-04 17:46:44.241 [main] Log - Test Execution completed for Test Scenario: TC_OpenMrs_Register_a_Patient
+[INFO ] 2022-09-04 17:46:44.315 [main] Log - Stated to Execute the Test Scenario: TC_OpenMrs_Find_a_Patient
+[INFO ] 2022-09-04 17:46:45.573 [main] Log - Driver has initialized successful for chromebrowser
+[INFO ] 2022-09-04 17:47:15.863 [main] Log - Test Execution completed for Test Scenario: TC_OpenMrs_Find_a_Patient
+[INFO ] 2022-09-04 17:47:15.871 [main] Log - Stated to Execute the Test Scenario: TC_OpenMrs_View_a_Patient
+[INFO ] 2022-09-04 17:47:17.351 [main] Log - Driver has initialized successful for chromebrowser
+[INFO ] 2022-09-04 17:48:05.184 [main] Log - Test Execution completed for Test Scenario: TC_OpenMrs_View_a_Patient
+[INFO ] 2022-09-04 17:48:05.190 [main] Log - Stated to Execute the Test Scenario: TC_OpenMrs_Delete_a_Patient
+[INFO ] 2022-09-04 17:48:08.059 [main] Log - Driver has initialized successful for chromebrowser
+[INFO ] 2022-09-04 17:48:47.661 [main] Log - Test Execution completed for Test Scenario: TC_OpenMrs_Delete_a_Patient
+[INFO ] 2022-09-04 17:48:47.667 [main] Log - Stated to Execute the Test Scenario: TC_OpenMrs_Book a Appointment
+[INFO ] 2022-09-04 17:48:49.486 [main] Log - Driver has initialized successful for chromebrowser
+[INFO ] 2022-09-04 17:49:43.444 [main] Log - Test Execution completed for Test Scenario: TC_OpenMrs_Book a Appointment

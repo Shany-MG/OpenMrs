@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<extentreports>
+
+	<configuration>
+
+		<enableCategoryView>true</enableCategoryView>
+		<enableAuthorView>false</enableAuthorView>
+		<enableExceptionView>true</enableExceptionView>
+		<enableTestRunnerLogsView>true</enableTestRunnerLogsView>
+
+		<!-- custom javascript -->
+		<scripts>
+            <![CDATA[
+                $(document).ready(function() {
+                    
+                });
+            ]]>
+		</scripts>
+
+		<!-- custom styles -->
+		<styles>
+            <![CDATA[
+                
+            ]]>
+		</styles>
+	</configuration>
+</extentreports>
